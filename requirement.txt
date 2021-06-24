@@ -1,0 +1,10 @@
+fontawsome
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ --burger
+ <i class="fa fa-bars burger" id="burger"></i>
+
+-fonts
+ --@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+
+-font family
+ --font-family: 'Exo 2', sans-serif;
